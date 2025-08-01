@@ -1,0 +1,2 @@
+# Practicando_Python_para_Data-Science_Challenge_Alura_Store_NathalyCuasapaz
+AluraStoreLatam Challenge1 Nathaly Cuasapaz.
